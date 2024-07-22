@@ -1,0 +1,6 @@
+INFO	2024-02-21 12:41:46,615	0	com.mt.webapp.stepdef.Mt_StepDef	[main]	Start-Scenario%
+INFO	2024-02-21 12:42:06,263	19648	com.mt.webapp.stepdef.Mt_StepDef	[main]	Register Successfully...!%
+INFO	2024-02-21 12:42:06,270	19655	com.mt.webapp.stepdef.Mt_StepDef	[main]	Finish-Scenario%
+INFO	2024-02-21 12:42:06,289	19674	com.mt.webapp.stepdef.Mt_StepDef	[main]	Start-Scenario%
+INFO	2024-02-21 12:42:17,313	30698	com.mt.webapp.stepdef.Mt_StepDef	[main]	Login Successfully...!%
+INFO	2024-02-21 12:42:17,315	30700	com.mt.webapp.stepdef.Mt_StepDef	[main]	Finish-Scenario%
